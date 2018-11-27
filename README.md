@@ -1,3 +1,9 @@
+![Screenshot](img1.png)
+![Screenshot](img2.png)
+![Screenshot](img3.png)
+
+
+
 /* 
  * @author *Blaq Ice*
  *
@@ -71,5 +77,3 @@ On Solaris, extract the downloaded file to the appropriate location then run the
 ###### Can I run the copied folder with the program on another PC or OS?
 - Yes, JRE need to be installed for that specific PC(OS) before you can run the program.
 
-
-![Screenshot](img1.png)
