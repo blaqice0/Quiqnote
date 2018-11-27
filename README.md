@@ -11,7 +11,7 @@
 
 **Choose either one**
 
-1 Click on Quiqnote.jar
+  1 Click on Quiqnote.jar
   - This will download the program only. After downloading create a folder called Quiqnote and move the Quiqnote.jar into into it.
   
   
