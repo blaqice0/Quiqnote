@@ -30,6 +30,7 @@ On Solaris, extract the downloaded file to the appropriate location then run the
 
 
 # Solved Issues
-###### 1. Window title  (26 Nov 2018)
-###### 2. Long unwrapped text in Notes page.  (27 Nov 2018)
+
+**1. Window title**  * *(26 Nov 2018)* *
+**2. Long unwrapped text in Notes page**  * *(27 Nov 2018)* *
 
