@@ -5,7 +5,7 @@
 
 
 # Installation Process
-###### Click on Releases
+###### Click on release
 
 ***Choose the latest release***
 - Choose either one
