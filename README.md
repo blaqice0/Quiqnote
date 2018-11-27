@@ -8,7 +8,9 @@
 ###### Click on release
 
 ***Choose the latest release***
-- Choose either one
+
+**Choose either one**
+
 1 Click on Quiqnote.jar
   - This will download the program only. After downloading create a folder called Quiqnote and move the Quiqnote.jar into into it.
   
