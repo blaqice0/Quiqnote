@@ -29,7 +29,7 @@ If you're using Linux check if Java is already installed, if not install then ru
 On Solaris, extract the downloaded file to the appropriate location then run the Quiqnote program by double clicking.
 
 
-# Solve Issues
-###### 1. Window title
-###### 2. Long unwrapped text in Notes page.
+# Solved Issues
+###### 1. Window title  (26 Nov 2018)
+###### 2. Long unwrapped text in Notes page.  (27 Nov 2018)
 
