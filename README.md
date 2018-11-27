@@ -24,3 +24,6 @@ Double click on Quiqnote program to run.
 
 If you're using Linux check if Java is already installed, if not install then run the Quiqnote program.
 On Solaris, extract the downloaded file to the appropriate location then run the Quiqnote program by double clicking.
+
+
+*SOLVED ISSUES*
