@@ -42,4 +42,4 @@ On Solaris, extract the downloaded file to the appropriate location then run the
 
 ## TIPS
 ###### Formatting you hard drive?
-- If you want to format your hard drive. Backup the JRE you downloaded from Oracle and the Quiqnote main folderto a save drive. Install the JRE after getting done with whatever you did with your formatted drive then Copy the Quiqnote main folder back to your drive.
+- If you want to format your hard drive. Backup the JRE you downloaded from Oracle and the Quiqnote main folder to a save drive. Install the JRE after getting done with whatever you did with your formatted drive then Copy the Quiqnote main folder back to your drive.
