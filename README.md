@@ -4,7 +4,7 @@
  */
 
 
-#Installation Process
+# Installation Process
 
 The program in the "Quiqnote" folder requires Java Runtime Environment(JRE) before it can be run.
 Download JRE for your computer at 
@@ -29,4 +29,7 @@ If you're using Linux check if Java is already installed, if not install then ru
 On Solaris, extract the downloaded file to the appropriate location then run the Quiqnote program by double clicking.
 
 
-*SOLVED ISSUES*
+# Solve Issues
+###### 1. Window title
+###### 2. Long unwrapped text in Notes page.
+
