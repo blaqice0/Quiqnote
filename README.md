@@ -44,5 +44,5 @@ On Solaris, extract the downloaded file to the appropriate location then run the
 ###### Formatting you hard drive?
 - If you want to format your hard drive. Backup the JRE you downloaded from Oracle and the Quiqnote main folder to a safe drive. Install the JRE after getting done with whatever you did with your formatted drive then Copy the Quiqnote main folder back to your drive.
 
-###### Can I run the copied folder with the program on another OS?
-- Yes, JRE need to be installed for that specific PC beofore you can run the program.
+###### Can I run the copied folder with the program on another PC or OS?
+- Yes, JRE need to be installed for that specific PC(OS) beofore you can run the program.
