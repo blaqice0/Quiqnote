@@ -3,6 +3,9 @@
  *
  */
 
+
+#Installation Process
+
 The program in the "Quiqnote" folder requires Java Runtime Environment(JRE) before it can be run.
 Download JRE for your computer at 
 https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
