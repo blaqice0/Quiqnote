@@ -25,7 +25,7 @@ Double click on Quiqnote program to run.
 
 ## Updating
 - Download the Quiqnote and extact it
-- Delete the old Quiqnote.jar from the Quiqnote folder(main folder) but don't delete the Quiqnote inside the mainfolder that  contain your notes
+- Delete the old Quiqnote.jar from the Quiqnote folder(main folder) but don't delete the Quiqnote inside the main folder that contain your notes
 - Now copy the Quiqnote.jar you extracted into the Quiqnote folder(main folder)
 - Run the Quiqnote.jar. Your files will be loaded with an update.
 
