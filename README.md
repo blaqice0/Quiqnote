@@ -9,13 +9,12 @@
 
 ***Choose the latest release***
 
-**Choose either one**
+## Choose either one
 
-  1 Click on Quiqnote.jar
+**Click on Quiqnote.jar**
   - This will download the program only. After downloading create a folder called Quiqnote and move the Quiqnote.jar into into it.
   
-  
-2. Click on Source code (zip)
+**Click on Source code (zip)**
   - This will download a zip file
   - Extract the zip file
   - You will find Quiqnote-master
@@ -23,7 +22,7 @@
   - Inside the Quiqnote folder inside Quiqnote-master, you will see the Quiqnote.jar(the program)
   - Move the Quiqnote(the folder in Quiqnote-master folder) to anywhere. You can move it into Documents or Desktop on your drive.
 
-3.  Click on Source code (tar.gz)
+**Click on Source code (tar.gz)**
   - This will download a tar.gz file
   - Extract the tar.gz file
   - You will find Quiqnote-master
