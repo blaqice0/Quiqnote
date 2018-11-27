@@ -1,5 +1,5 @@
 /* 
- * @author Blaq Ice
+ * @author *Blaq Ice*
  *
  */
 
@@ -31,6 +31,6 @@ On Solaris, extract the downloaded file to the appropriate location then run the
 
 # Solved Issues
 
-- Window title   *26 Nov 2018* 
-- Long unwrapped text in Notes page  *27 Nov 2018*
+- Window title           *-26 Nov 2018* 
+- Long unwrapped text in Notes page              *-27 Nov 2018*
 
