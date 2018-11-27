@@ -14,6 +14,7 @@
 1 Click on Quiqnote.jar
   - This will download the program only. After downloading create a folder called Quiqnote and move the Quiqnote.jar into into it.
   
+  
 2. Click on Source code (zip)
   - This will download a zip file
   - Extract the zip file
